@@ -30,7 +30,7 @@
 - [CS-Self-Learning](https://github.com/PKUFlyingPig/cs-self-learning): A useful guide for me to sharpen my skills.
 - [Go-Programming](https://github.com/draveness/website): A golang development guide. 
 
-#### 👯 Check out my recent followers
+#### 👯 Check out my recent follows
 
 - [NUS Big Data Lab](https://github.com/thulab)
 - [charlesliucn](https://github.com/charlesliucn)
