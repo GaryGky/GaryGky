@@ -33,7 +33,8 @@
 #### 👯 Check out my recent followers
 
 - [NUS Big Data Lab](https://github.com/thulab)
-- 
+- [charlesliucn](https://github.com/charlesliucn)
+- [OneSizeFitsQuorum](https://github.com/OneSizeFitsQuorum)
 
 #### 🔨 Check out my recent pull requests
 
