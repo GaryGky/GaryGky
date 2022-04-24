@@ -36,10 +36,20 @@
 - [charlesliucn](https://github.com/charlesliucn)
 - [OneSizeFitsQuorum](https://github.com/OneSizeFitsQuorum)
 
-#### 🔨 Check out my recent pull requests
+#### 🔨 Check out my recent Talk
 
-- 
+- [Google File System]()
 
 #### 📜 Check out my recent blog posts
 
-- 
+- [Partition is All you Need](https://lo845xqmx7.feishu.cn/docs/doccn7ps0hMiJoJIw4DmRWn4HUd)
+
+- [Google File System](https://lo845xqmx7.feishu.cn/docs/doccncmo8iqkFFn424B8lZd44gh)
+- [Map Reduce](https://lo845xqmx7.feishu.cn/docs/doccnOSf3ldikYI6JOgdn5B6Gac)
+- [Twitter 缓存应用分析](https://lo845xqmx7.feishu.cn/docs/doccn329gaovix2csddT3FXFzvb)
+
+## Acknowledgement
+
+```shell
+Thanks for the Page Template from: OneSizeFitsQuorum
+```
