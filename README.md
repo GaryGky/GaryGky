@@ -38,7 +38,7 @@
 
 #### 🔨 Check out my recent Talk
 
-- [Google File System](https://youtu.be/SnchW1CkKZY)
+- [Google File System](https://drive.google.com/file/d/14vcHTjZV4cnQene2GzecY0gizOrzEnaA/view?usp=sharing)
 
 #### 📜 Check out my recent blog posts
 
