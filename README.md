@@ -1,4 +1,4 @@
-🎓 Second-year master student at [National University of Singapore](https://www.nus.edu.sg/)
+🎓 First-year master student at [National University of Singapore](https://www.nus.edu.sg/)
 
 🖋 Work：Currently I am an senior intern at [TikTok](https://www.tiktok.com/)
 
