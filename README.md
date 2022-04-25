@@ -1,8 +1,10 @@
 🎓 First-year master student at [National University of Singapore](https://www.nus.edu.sg/)
 
-🖋 Work：Currently I am an senior intern at [TikTok](https://www.tiktok.com/)
+🏗 Work：Currently I am an senior intern at [TikTok](https://www.tiktok.com/)
 
 💻 Interested in distributed storage system and data-intensive application.
+
+🌋 Code Page: [LeetCode](https://leetcode-cn.com/u/kaiyuan_nus/)
 
 💡 LinkedIn: [KaiyuanGan](https://www.linkedin.com/in/kaiyuangan/)
 
