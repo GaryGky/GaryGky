@@ -78,10 +78,12 @@ Thanks for the Page Template from: OneSizeFitsQuorum
 
 #### 🪤 Check out my Pinned Repos
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=GaryGky&repo=iotdb&showonwer)](https://github.com/anuraghazra/github-readme-stats)
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=GaryGky&repo=iotdb&showonwer" />
+  <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=GaryGky&repo=IDEAL-NeRF&showonwer" />
+</a>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=GaryGky&repo=IDEAL-NeRF&showonwer)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=GaryGky&repo=Beihang-Compile&showonwer)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=GaryGky&repo=ColossalAI&showonwer)](https://github.com/anuraghazra/github-readme-stats)
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=GaryGky&repo=Beihang-Compile&showonwer" />
+  <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=GaryGky&repo=ColossalAI&showonwer" />
+</a>
