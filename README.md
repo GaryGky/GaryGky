@@ -1,9 +1,10 @@
 ## Hi there, Welcome to Gary's GitHub space.
 
-<a href="https://github.com/GaryGky">
-  <img align="center" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?theme=radical&username=GaryGky&show_icons=true&include_all_commits=true" />
-</a>
+#### Check out my recent activities
 
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=GaryGky&?count_private=true&show_icons=true&&theme=synthwave" />
+</a>
 
 🎓 Second-year master student at [National University of Singapore](https://www.nus.edu.sg/)
 
@@ -18,6 +19,14 @@
 📫 Email: [kaiyuan1706@gmail.com](kaiyuan1706@gmail.com)
 
 💬 Wechat: [click here](https://github.com/GaryGky/IDEAL-NeRF/blob/master/wechat.jpg)
+
+#### Program Language Statistic
+
+> Java, Golang, Python, C++, JS.
+
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GaryGky" />
+</a>
 
 #### 👷 Check out what I'm currently working on
 
