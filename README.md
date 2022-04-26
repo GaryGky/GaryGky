@@ -1,3 +1,11 @@
+Hi there, Welcome to Gary's GitHub space.
+
+<a href="https://github.com/GaryGky">
+  <img align="center" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?theme=radical&username=GaryGky&show_icons=true&include_all_commits=true" />
+</a>
+
+
+
 🎓 Second-year master student at [National University of Singapore](https://www.nus.edu.sg/)
 
 🖋 Work：Currently I am an senior intern at [TikTok](https://www.tiktok.com/)
