@@ -6,7 +6,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=GaryGky&?count_private=true&show_icons=true&&theme=synthwave" />
 </a>
 
-🎓 Second-year master student at [National University of Singapore](https://www.nus.edu.sg/)
+🎓 First-year master student at [National University of Singapore](https://www.nus.edu.sg/)
 
 🏗 Work：Currently I am a senior intern at [TikTok](https://www.tiktok.com/)
 
