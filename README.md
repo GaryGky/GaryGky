@@ -1,6 +1,6 @@
-## Hi there, Welcome to Gary's GitHub space.
+## Hi there👋, Welcome to Gary's GitHub space.
 
-#### Check out my recent activities
+#### 🔋 Check out my recent activities
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=GaryGky&?count_private=true&show_icons=true&&theme=synthwave" />
@@ -20,7 +20,7 @@
 
 💬 Wechat: [click here](https://github.com/GaryGky/IDEAL-NeRF/blob/master/wechat.jpg)
 
-#### Program Language Statistic
+#### 🔦 Program Language Statistic
 
 > Java, Golang, Python, C++, JS.
 
