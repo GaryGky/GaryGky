@@ -1,16 +1,16 @@
-Hi there, Welcome to Gary's GitHub space.
+## Hi there, Welcome to Gary's GitHub space.
 
 <a href="https://github.com/GaryGky">
   <img align="center" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?theme=radical&username=GaryGky&show_icons=true&include_all_commits=true" />
 </a>
 
-
-
 🎓 Second-year master student at [National University of Singapore](https://www.nus.edu.sg/)
 
-🖋 Work：Currently I am an senior intern at [TikTok](https://www.tiktok.com/)
+🏗 Work：Currently I am a senior intern at [TikTok](https://www.tiktok.com/)
 
 💻 Interested in distributed storage system and data-intensive application.
+
+🌋 Code Page: [LeetCode](https://leetcode-cn.com/u/kaiyuan_nus/)
 
 💡 LinkedIn: [KaiyuanGan](https://www.linkedin.com/in/kaiyuangan/)
 
