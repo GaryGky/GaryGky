@@ -61,13 +61,11 @@
 #### 📜 Check out my recent blog posts
 
 - [Partition is All you Need](https://lo845xqmx7.feishu.cn/docs/doccn7ps0hMiJoJIw4DmRWn4HUd)
-
 - [Google File System](https://lo845xqmx7.feishu.cn/docs/doccncmo8iqkFFn424B8lZd44gh)
 - [Map Reduce](https://lo845xqmx7.feishu.cn/docs/doccnOSf3ldikYI6JOgdn5B6Gac)
 - [Twitter 缓存应用分析](https://lo845xqmx7.feishu.cn/docs/doccn329gaovix2csddT3FXFzvb)
 
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=GaryGky&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ## Acknowledgement
@@ -75,3 +73,15 @@
 ```shell
 Thanks for the Page Template from: OneSizeFitsQuorum
 ```
+
+
+
+#### Check out my Pinned Repos
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=GaryGky&repo=iotdb&showonwer)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=GaryGky&repo=IDEAL-NeRF&showonwer)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=GaryGky&repo=Beihang-Compile&showonwer)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=GaryGky&repo=ColossalAI&showonwer)](https://github.com/anuraghazra/github-readme-stats)
