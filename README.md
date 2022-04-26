@@ -76,7 +76,7 @@ Thanks for the Page Template from: OneSizeFitsQuorum
 
 
 
-#### Check out my Pinned Repos
+#### 🪤 Check out my Pinned Repos
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=GaryGky&repo=iotdb&showonwer)](https://github.com/anuraghazra/github-readme-stats)
 
