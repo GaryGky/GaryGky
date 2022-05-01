@@ -2,8 +2,8 @@
 
 #### 🔋 Check out my recent activities
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=GaryGky&?count_private=true&show_icons=true&&theme=synthwave" />
+<a href="https://github.com/GaryGky">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=GaryGky&?count_private=true&show_icons=true&theme=synthwave" />
 </a>
 
 🎓 First-year master student at [National University of Singapore](https://www.nus.edu.sg/)
@@ -20,13 +20,7 @@
 
 💬 Wechat: [click here](https://github.com/GaryGky/IDEAL-NeRF/blob/master/wechat.jpg)
 
-#### 🔦 Program Language Statistic
 
-> Java, Golang, Python, C++, JS.
-
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GaryGky" />
-</a>
 
 #### 👷 Check out what I'm currently working on
 
@@ -65,6 +59,8 @@
 - [Map Reduce](https://lo845xqmx7.feishu.cn/docs/doccnOSf3ldikYI6JOgdn5B6Gac)
 - [Twitter 缓存应用分析](https://lo845xqmx7.feishu.cn/docs/doccn329gaovix2csddT3FXFzvb)
 - [Database Transaction](https://lo845xqmx7.feishu.cn/docs/doccnNYVPZVwOG8KKcUirv37ELM)
+
+
 
 
 
