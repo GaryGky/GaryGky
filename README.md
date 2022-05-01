@@ -74,12 +74,12 @@ Thanks for the Page Template from: OneSizeFitsQuorum
 
 #### 🪤 Check out my Pinned Repos
 
-<a href="https://github.com/anuraghazra/convoychat">
+<a href="https://github.com/GaryGky/IDEAL-NeRF">
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=GaryGky&repo=iotdb&showonwer" />
   <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=GaryGky&repo=IDEAL-NeRF&showonwer" />
 </a>
 
-<a href="https://github.com/anuraghazra/convoychat">
+<a href="https://github.com/GaryGky/iotdb">
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=GaryGky&repo=Beihang-Compile&showonwer" />
   <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=GaryGky&repo=ColossalAI&showonwer" />
 </a>
