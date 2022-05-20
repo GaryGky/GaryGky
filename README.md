@@ -8,7 +8,7 @@
 
 🎓 First-year master student at [National University of Singapore](https://www.nus.edu.sg/)
 
-🏗 Work：Currently I am a senior intern at [TikTok](https://www.tiktok.com/)
+🏗 Work：Currently I am an intern at [TikTok](https://www.tiktok.com/)
 
 💻 Interested in distributed storage system and data-intensive application.
 
@@ -24,10 +24,13 @@
 
 #### 👷 Check out what I'm currently working on
 
-- Reading [DDIA](https://dataintensive.net/)
+- Reading [DDIA](https://dataintensive.net/), and find some deep concept on Message Queue as well learn some OpenSource MQ:
+  - [RocketMQ](https://rocketmq.apache.org/)
+  - [Kafka](https://kafka.apache.org/)
+
 - Update Leetcode Progress: [Leetcode Daily Updates](https://github.com/GaryGky/leetcode-update)
-- Reading Paper and Record Videos, Google File System (one week ago).
-- Commit to TikTok Global Live Project.
+- Tech Sharing about Distributed Storage System within **TikTok**.
+- Commit to TikTok Global Live Bussiness Project.
 - Commit to OpenSource Project [Colossal-AI](https://github.com/hpcaitech/ColossalAI) (Recent Month)
 
 #### 🌱 Check out my recent projects
@@ -51,6 +54,7 @@
 #### 🔨 Check out my recent Talk
 
 - [Google File System](https://drive.google.com/file/d/14vcHTjZV4cnQene2GzecY0gizOrzEnaA/view?usp=sharing)
+- [Dynamo: Amazon's High Availability KV Storage.](https://docs.google.com/presentation/d/1CoBHEo5VZ2gLwbpEL4JeUYTg31M5tBW-ItBliTdBgp0/edit#slide=id.gc6f73a04f_0_14)
 
 #### 📜 Check out my recent blog posts
 
@@ -60,7 +64,9 @@
 - [Twitter 缓存应用分析](https://lo845xqmx7.feishu.cn/docs/doccn329gaovix2csddT3FXFzvb)
 - [Database Transaction](https://lo845xqmx7.feishu.cn/docs/doccnNYVPZVwOG8KKcUirv37ELM)
 
-
+- [Spanner](https://lo845xqmx7.feishu.cn/docs/doccnALxkfZlATXInaIF2BcyMUf)
+- [VM-FT](https://lo845xqmx7.feishu.cn/docs/doccny051ESMjndx9mYC7wpg0cc)
+- [Dynamo](https://lo845xqmx7.feishu.cn/docs/doccnAYOAFo5OQPUCapBWMqNAzb)
 
 
 
