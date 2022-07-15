@@ -10,7 +10,7 @@
 
 🏗 Work：Currently I am an intern at [TikTok](https://www.tiktok.com/)
 
-💻 Interested in distributed storage system and data-intensive application.
+💻 Interested in **distributed storage system** **and data-intensive application**.
 
 🌋 Code Page: [LeetCode](https://leetcode-cn.com/u/kaiyuan_nus/)
 
@@ -27,11 +27,12 @@
 - Reading [DDIA](https://dataintensive.net/), and find some deep concept on Message Queue as well learn some OpenSource MQ:
   - [RocketMQ](https://rocketmq.apache.org/)
   - [Kafka](https://kafka.apache.org/)
-
 - Update Leetcode Progress: [Leetcode Daily Updates](https://github.com/GaryGky/leetcode-update)
 - Tech Sharing about Distributed Storage System within **TikTok**.
 - Commit to TikTok Global Live Bussiness Project.
 - Commit to OpenSource Project [Colossal-AI](https://github.com/hpcaitech/ColossalAI) (Recent Month)
+
+
 
 #### 🌱 Check out my recent projects
 
@@ -39,11 +40,15 @@
 - [MIT.6.824](https://github.com/GaryGky/MIT6.824): Distributed Course from MIT
 - [NUS-CS5223](https://github.com/GaryGky/cs5223-labs): Building a dynamic, partitioned in-memory DB with Distributed Transactions and Strong Consistency.
 
+
+
 #### ⭐ Check out my recent stars
 
 - [Programmer how to live longer](https://github.com/geekan/HowToLiveLonger): A survival guide for programmer.
 - [CS-Self-Learning](https://github.com/PKUFlyingPig/cs-self-learning): A useful guide for me to sharpen my skills.
 - [Go-Programming](https://github.com/draveness/website): A golang development guide. 
+
+
 
 #### 👯 Check out my recent follows
 
@@ -51,10 +56,14 @@
 - [charlesliucn](https://github.com/charlesliucn)
 - [OneSizeFitsQuorum](https://github.com/OneSizeFitsQuorum)
 
+
+
 #### 🔨 Check out my recent Talk
 
 - [Google File System](https://drive.google.com/file/d/14vcHTjZV4cnQene2GzecY0gizOrzEnaA/view?usp=sharing)
 - [Dynamo: Amazon's High Availability KV Storage.](https://docs.google.com/presentation/d/1CoBHEo5VZ2gLwbpEL4JeUYTg31M5tBW-ItBliTdBgp0/edit#slide=id.gc6f73a04f_0_14)
+
+
 
 #### 📜 Check out my recent blog posts
 
