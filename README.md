@@ -24,6 +24,7 @@
 
 #### 👷 Check out what I'm currently working on
 
+- Building my Tiny **Tiktok** Project: [myTikTok](https://github.com/GaryGky/myTikTok)
 - Reading [DDIA](https://dataintensive.net/), and find some deep concept on Message Queue as well learn some OpenSource MQ:
   - [RocketMQ](https://rocketmq.apache.org/)
   - [Kafka](https://kafka.apache.org/)
