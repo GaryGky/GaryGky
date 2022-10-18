@@ -3,7 +3,7 @@
 #### 🔋 Check out my recent activities
 
 <a href="https://github.com/GaryGky">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=GaryGky&?count_private=true&show_icons=true&theme=synthwave" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=GaryGky&?count_private=true&show_icons=true&theme=dark" />
 </a>
 
 🎓 First-year master student at [National University of Singapore](https://www.nus.edu.sg/)
