@@ -6,9 +6,9 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=GaryGky&?count_private=true&show_icons=true&theme=dark" />
 </a>
 
-🎓 First-year master student at [National University of Singapore](https://www.nus.edu.sg/)
+🎓 Second-year master student at [National University of Singapore](https://www.nus.edu.sg/)
 
-🏗 Work：Currently I am an intern at [TikTok](https://www.tiktok.com/)
+🏗 Work：I work as software engineer at [TikTok](https://www.tiktok.com/)
 
 💻 Interested in **distributed storage system** **and data-intensive application**.
 
