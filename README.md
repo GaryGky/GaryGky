@@ -2,9 +2,7 @@
 
 #### 🔋 Check out my recent activities
 
-<a href="https://github.com/GaryGky">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=GaryGky&?count_private=true&show_icons=true&theme=synthwave" />
-</a>
+![Kaiyuan's GitHub stats](https://github-readme-stats.vercel.app/api?username=GaryGky&show_icons=true&theme=radical)
 
 🎓 First-year master student at [National University of Singapore](https://www.nus.edu.sg/)
 
