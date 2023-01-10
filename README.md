@@ -4,13 +4,13 @@
 
 ![Kaiyuan's GitHub stats](https://github-readme-stats.vercel.app/api?username=GaryGky&show_icons=true&theme=radical)
 
-
+📚 Welcome to my [blog](https://garygky.github.io/)
 
 🎓 Second-year master student at [National University of Singapore](https://www.nus.edu.sg/)
 
 🏗 Work：I work as software engineer at [TikTok](https://www.tiktok.com/)
 
-💻 Interested in **distributed storage system** **and data-intensive application**.
+💻 Interested in **distributed storage system** **and data-intensive application**. 
 
 🌋 Code Page: [LeetCode](https://leetcode-cn.com/u/kaiyuan_nus/)
 
@@ -24,13 +24,17 @@
 
 #### 👷 Check out what I'm currently working on
 
+- Building my [Raft Project](https://github.com/GaryGky/GanMit-6824)
+  - Learning Go: GC, Concurrency Control, etc.
+  - [Google Cloud Computing ](https://learning.oreilly.com/library/view/visualizing-google-cloud/9781119816324/)
+
 - Building my Tiny **Tiktok** Project: [myTikTok](https://github.com/GaryGky/myTikTok)
 - Reading [DDIA](https://dataintensive.net/), and find some deep concept on Message Queue as well learn some OpenSource MQ:
   - [RocketMQ](https://rocketmq.apache.org/)
   - [Kafka](https://kafka.apache.org/)
 - Update Leetcode Progress: [Leetcode Daily Updates](https://github.com/GaryGky/leetcode-update)
 - Tech Sharing about Distributed Storage System within **TikTok**.
-- Commit to TikTok Global Live Bussiness Project.
+- Commit to TikTok Global Live Bussiness Project. 
 - Commit to OpenSource Project [Colossal-AI](https://github.com/hpcaitech/ColossalAI) (Recent Month)
 
 
