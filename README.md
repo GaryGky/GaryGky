@@ -25,7 +25,7 @@
 #### 👷 Check out what I'm currently working on
 
 - Building my [Raft Project](https://github.com/GaryGky/GanMit-6824)
-  - Learning Go: GC, Concurrency Control, etc.
+  - [Learning Go](https://learning.oreilly.com/library/view/learning-go/9781492077206/ch10.html): GC, Concurrency Control, etc.
   - [Google Cloud Computing ](https://learning.oreilly.com/library/view/visualizing-google-cloud/9781119816324/)
 
 - Building my Tiny **Tiktok** Project: [myTikTok](https://github.com/GaryGky/myTikTok)
