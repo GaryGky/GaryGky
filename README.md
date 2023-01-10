@@ -4,9 +4,11 @@
 
 ![Kaiyuan's GitHub stats](https://github-readme-stats.vercel.app/api?username=GaryGky&show_icons=true&theme=radical)
 
-🎓 First-year master student at [National University of Singapore](https://www.nus.edu.sg/)
 
-🏗 Work：Currently I am an intern at [TikTok](https://www.tiktok.com/)
+
+🎓 Second-year master student at [National University of Singapore](https://www.nus.edu.sg/)
+
+🏗 Work：I work as software engineer at [TikTok](https://www.tiktok.com/)
 
 💻 Interested in **distributed storage system** **and data-intensive application**.
 
