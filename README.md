@@ -6,7 +6,7 @@
 
 📚 Welcome to my [blog](https://garygky.github.io/)
 
-🎓 Second-year master student at [National University of Singapore](https://www.nus.edu.sg/)
+🎓 Graduate (JUN 2023) student at [National University of Singapore](https://www.nus.edu.sg/)
 
 🏗 Work：I work as software engineer at [TikTok](https://www.tiktok.com/)
 
