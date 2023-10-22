@@ -8,7 +8,7 @@
 
 🎓 Graduate (JUN 2023) student at [National University of Singapore](https://www.nus.edu.sg/)
 
-🏗 Work：I work as software engineer at [TikTok](https://www.tiktok.com/)
+🏗 Work：I have been working as software engineer at [TikTok](https://www.tiktok.com/) for > 1 yrs
 
 💻 Interested in **distributed storage system** **and data-intensive application**. 
 
